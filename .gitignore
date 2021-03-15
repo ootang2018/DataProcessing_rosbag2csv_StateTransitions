@@ -1,3 +1,8 @@
+blimpSim/
+blimpReal/
+data/
+results/
+
 devel/
 logs/
 build/
