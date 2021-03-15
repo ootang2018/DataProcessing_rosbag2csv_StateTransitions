@@ -2,6 +2,7 @@ blimpSim/
 blimpReal/
 data/
 results/
+.ipynb_checkpoints/
 
 devel/
 logs/
