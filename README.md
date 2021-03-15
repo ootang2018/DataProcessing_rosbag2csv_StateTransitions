@@ -4,5 +4,8 @@ change rosbag file to csv files, merge these files into a transition pairs dataf
 ## Howto
 - put collected rosbag in ./blimpSim/data 
 - specify exp_index (name of the rosbag file)
-- run notebook
-- result should be stored in ./blimpSim/results
+- run jupyter notebook
+- default result is stored in ./blimpSim/results
+
+## Note
+- all the directories name can be modified easily
